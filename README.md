@@ -15,6 +15,12 @@ Tu puedes guardar copias de cada repositorio en tu perfil de GitHub, pero no por
 
 Estos cambios solo podran alterar el proyecto original segun como lo decida su autor. Para ello, puedes enviar una peticion de cambio (en ingles *pull request*) que le de al autor un resumen de los cambios que deseas hacer, y asi el decide que utilizar y que no.
 
+## Que es Markdown? 
+Markdown es un lenguaje de programacion utilizado para formatear texto de manera mas eficaz que en un procesador de textos comun. Para ello, se utilizan el asterisco (*), el guion (-), entre otros signos de puntuacion, para representar el formato. Un ejemplo de un texto con Markdown seria: 
+
+` ### Texto en Markdown 
+  Esto es un *texto* en Markdown! Tiene cualidades ==muy importantes== que lo vuelven un lenguaje de programacion eficaz para un monton de cosas. Usalo **tanto** como creas importante! 😂 `
+
 Es tiempo de comenzar! 
 
 # Instrucciones de la tarea
